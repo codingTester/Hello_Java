@@ -1,2 +1,3 @@
 # Hello_Java
-Nothing
+
+This is the way of Java
