@@ -3,5 +3,7 @@ public class Hello {
     System.out.println("Hello, world!");
     System.out.println("\n");
     System.out.println("From another world!");
+    System.out.println("\n");
+    System.out.println("Hello from another place in the universe!")
     }
 }
